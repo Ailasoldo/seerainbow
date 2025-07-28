@@ -22,7 +22,7 @@ CSS STRUCTURE:
 --------------------------------------------------------------*/
 body {
 
-  background-color: #f0ece5;
+  background-color: #ffe9ec;
 
 
   --heading-font: "Abril Fatface", serif;
@@ -43,7 +43,7 @@ body {
   --bs-body-color-rgb: 143, 143, 143;
 
 
-  --bs-primary: #351915;
+  --bs-primary: #ff6a80;
   --bs-primary-dark: #520a00;
   --bs-secondary: #f0ece5;
   --bs-black: #111;
@@ -52,7 +52,7 @@ body {
   --bs-gray: #9aa1a7;
   --bs-gray-dark: #51565b;
 
-  --bs-primary-rgb: 53, 25, 21;
+  --bs-primary-rgb: 255, 45, 76;
   --bs-secondary-rgb: 240, 236, 229;
   --bs-black-rgb: 17, 17, 17;
   --bs-light-rgb: 241, 241, 240;
